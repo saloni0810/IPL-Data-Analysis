@@ -1,0 +1,257 @@
+match_no,bowling_team,extras
+1,"Royal Challengers Bangalore",7
+1,"Sunrisers Hyderabad",6
+2,"Rising Pune Supergiant",8
+2,"Mumbai Indians",4
+3,"Kolkata Knight Riders",4
+3,"Gujarat Lions",15
+4,"Kings XI Punjab",6
+4,"Rising Pune Supergiant",10
+5,"Delhi Daredevils",6
+5,"Royal Challengers Bangalore",5
+6,"Sunrisers Hyderabad",3
+6,"Gujarat Lions",3
+7,"Mumbai Indians",9
+7,"Kolkata Knight Riders",12
+8,"Kings XI Punjab",4
+8,"Royal Challengers Bangalore",6
+9,"Rising Pune Supergiant",8
+9,"Delhi Daredevils",5
+10,"Mumbai Indians",11
+10,"Sunrisers Hyderabad",4
+11,"Kolkata Knight Riders",16
+11,"Kings XI Punjab",11
+12,"Mumbai Indians",11
+12,"Royal Challengers Bangalore",13
+13,"Gujarat Lions",5
+13,"Rising Pune Supergiant",5
+14,"Sunrisers Hyderabad",11
+14,"Kolkata Knight Riders",7
+15,"Kings XI Punjab",10
+15,"Delhi Daredevils",2
+16,"Mumbai Indians",11
+16,"Gujarat Lions",13
+17,"Royal Challengers Bangalore",13
+17,"Rising Pune Supergiant",8
+18,"Kolkata Knight Riders",3
+18,"Delhi Daredevils",11
+19,"Kings XI Punjab",11
+19,"Sunrisers Hyderabad",10
+20,"Gujarat Lions",4
+20,"Royal Challengers Bangalore",8
+21,"Delhi Daredevils",4
+21,"Sunrisers Hyderabad",7
+22,"Mumbai Indians",12
+22,"Kings XI Punjab",8
+23,"Gujarat Lions",3
+23,"Kolkata Knight Riders",5
+24,"Delhi Daredevils",16
+24,"Mumbai Indians",8
+25,"Rising Pune Supergiant",8
+25,"Sunrisers Hyderabad",3
+26,"Gujarat Lions",5
+26,"Kings XI Punjab",7
+27,"Royal Challengers Bangalore",8
+27,"Kolkata Knight Riders",7
+28,"Mumbai Indians",4
+28,"Rising Pune Supergiant",6
+29,"Kolkata Knight Riders",7
+29,"Rising Pune Supergiant",13
+30,"Gujarat Lions",12
+30,"Royal Challengers Bangalore",8
+31,"Kolkata Knight Riders",7
+31,"Delhi Daredevils",10
+32,"Kings XI Punjab",3
+32,"Sunrisers Hyderabad",5
+33,"Royal Challengers Bangalore",4
+33,"Rising Pune Supergiant",4
+34,"Mumbai Indians",15
+34,"Gujarat Lions",1
+35,"Kings XI Punjab",5
+35,"Delhi Daredevils",2
+36,"Kolkata Knight Riders",8
+36,"Sunrisers Hyderabad",5
+37,"Mumbai Indians",4
+37,"Royal Challengers Bangalore",7
+38,"Rising Pune Supergiant",7
+38,"Gujarat Lions",7
+39,"Delhi Daredevils",8
+39,"Sunrisers Hyderabad",3
+40,"Rising Pune Supergiant",5
+40,"Kolkata Knight Riders",8
+41,"Delhi Daredevils",5
+41,"Gujarat Lions",12
+42,"Royal Challengers Bangalore",12
+42,"Kings XI Punjab",7
+43,"Sunrisers Hyderabad",7
+43,"Rising Pune Supergiant",2
+44,"Delhi Daredevils",19
+44,"Mumbai Indians",3
+45,"Kolkata Knight Riders",3
+45,"Royal Challengers Bangalore",6
+46,"Gujarat Lions",3
+46,"Kings XI Punjab",6
+47,"Sunrisers Hyderabad",10
+47,"Mumbai Indians",4
+48,"Kolkata Knight Riders",12
+48,"Kings XI Punjab",4
+49,"Delhi Daredevils",11
+49,"Gujarat Lions",3
+50,"Mumbai Indians",10
+50,"Kings XI Punjab",8
+51,"Rising Pune Supergiant",7
+51,"Delhi Daredevils",10
+52,"Sunrisers Hyderabad",6
+52,"Gujarat Lions",4
+53,"Kolkata Knight Riders",17
+53,"Mumbai Indians",8
+54,"Rising Pune Supergiant",3
+54,"Kings XI Punjab",1
+55,"Delhi Daredevils",9
+55,"Royal Challengers Bangalore",7
+56,"Mumbai Indians",7
+56,"Rising Pune Supergiant",9
+57,"Kolkata Knight Riders",7
+57,"Sunrisers Hyderabad",4
+58,"Mumbai Indians",7
+58,"Kolkata Knight Riders",8
+59,"Rising Pune Supergiant",8
+59,"Mumbai Indians",9
+60,"Royal Challengers Bangalore",17
+60,"Kolkata Knight Riders",19
+61,"Kings XI Punjab",6
+61,"Chennai Super Kings",11
+62,"Delhi Daredevils",7
+62,"Rajasthan Royals",10
+63,"Royal Challengers Bangalore",11
+63,"Mumbai Indians",5
+64,"Kolkata Knight Riders",10
+64,"Deccan Chargers",28
+65,"Rajasthan Royals",4
+65,"Kings XI Punjab",12
+66,"Delhi Daredevils",5
+66,"Deccan Chargers",12
+67,"Mumbai Indians",18
+67,"Chennai Super Kings",13
+68,"Rajasthan Royals",6
+68,"Deccan Chargers",7
+69,"Mumbai Indians",7
+69,"Kings XI Punjab",7
+70,"Rajasthan Royals",6
+70,"Royal Challengers Bangalore",3
+71,"Chennai Super Kings",8
+71,"Kolkata Knight Riders",18
+72,"Deccan Chargers",11
+72,"Mumbai Indians",9
+73,"Kings XI Punjab",11
+73,"Delhi Daredevils",9
+74,"Royal Challengers Bangalore",4
+74,"Chennai Super Kings",7
+75,"Mumbai Indians",13
+75,"Kolkata Knight Riders",15
+76,"Royal Challengers Bangalore",4
+76,"Delhi Daredevils",12
+77,"Kings XI Punjab",4
+77,"Deccan Chargers",6
+78,"Kolkata Knight Riders",14
+78,"Rajasthan Royals",12
+79,"Delhi Daredevils",7
+79,"Chennai Super Kings",6
+80,"Royal Challengers Bangalore",13
+80,"Deccan Chargers",3
+81,"Kolkata Knight Riders",14
+81,"Kings XI Punjab",7
+82,"Delhi Daredevils",10
+82,"Mumbai Indians",4
+83,"Rajasthan Royals",7
+83,"Chennai Super Kings",21
+84,"Kings XI Punjab",10
+84,"Royal Challengers Bangalore",17
+85,"Deccan Chargers",10
+85,"Chennai Super Kings",5
+86,"Mumbai Indians",7
+86,"Rajasthan Royals",12
+87,"Chennai Super Kings",12
+87,"Delhi Daredevils",11
+88,"Royal Challengers Bangalore",5
+88,"Kolkata Knight Riders",6
+89,"Rajasthan Royals",6
+89,"Deccan Chargers",11
+90,"Mumbai Indians",11
+90,"Royal Challengers Bangalore",13
+91,"Kings XI Punjab",15
+91,"Chennai Super Kings",3
+92,"Deccan Chargers",5
+92,"Kolkata Knight Riders",16
+93,"Rajasthan Royals",11
+93,"Delhi Daredevils",17
+94,"Kings XI Punjab",15
+94,"Royal Challengers Bangalore",9
+95,"Delhi Daredevils",11
+95,"Kolkata Knight Riders",8
+96,"Mumbai Indians",12
+96,"Chennai Super Kings",16
+97,"Rajasthan Royals",5
+97,"Kings XI Punjab",4
+98,"Deccan Chargers",8
+98,"Delhi Daredevils",3
+99,"Mumbai Indians",8
+99,"Kolkata Knight Riders",10
+100,"Kings XI Punjab",10
+100,"Delhi Daredevils",4
+101,"Royal Challengers Bangalore",26
+101,"Rajasthan Royals",6
+102,"Deccan Chargers",20
+102,"Mumbai Indians",8
+103,"Chennai Super Kings",13
+103,"Kolkata Knight Riders",4
+104,"Delhi Daredevils",9
+104,"Royal Challengers Bangalore",12
+105,"Rajasthan Royals",5
+105,"Kolkata Knight Riders",7
+106,"Mumbai Indians",12
+106,"Kings XI Punjab",23
+107,"Chennai Super Kings",4
+107,"Royal Challengers Bangalore",12
+108,"Kings XI Punjab",5
+108,"Deccan Chargers",8
+109,"Delhi Daredevils",9
+109,"Mumbai Indians",3
+110,"Chennai Super Kings",7
+110,"Rajasthan Royals",9
+111,"Deccan Chargers",5
+111,"Royal Challengers Bangalore",6
+112,"Kolkata Knight Riders",11
+112,"Kings XI Punjab",9
+113,"Rajasthan Royals",13
+113,"Mumbai Indians",16
+114,"Chennai Super Kings",16
+114,"Deccan Chargers",11
+115,"Delhi Daredevils",4
+115,"Rajasthan Royals",7
+116,"Chennai Super Kings",4
+116,"Kings XI Punjab",4
+117,"Rajasthan Royals",7
+117,"Chennai Super Kings",14
+118,"Chennai Super Kings",3
+118,"Mumbai Indians",9
+119,"Rajasthan Royals",4
+119,"Royal Challengers Bangalore",9
+120,"Delhi Daredevils",8
+120,"Kings XI Punjab",5
+121,"Deccan Chargers",5
+121,"Kolkata Knight Riders",2
+122,"Royal Challengers Bangalore",13
+122,"Chennai Super Kings",5
+123,"Kolkata Knight Riders",12
+123,"Kings XI Punjab",4
+124,"Royal Challengers Bangalore",9
+124,"Deccan Chargers",7
+125,"Chennai Super Kings",1
+125,"Delhi Daredevils",15
+126,"Kolkata Knight Riders",10
+126,"Rajasthan Royals",19
+127,"Kings XI Punjab",8
+127,"Royal Challengers Bangalore",13
+128,"Mumbai Indians",14
+128,"Deccan Chargers",13
